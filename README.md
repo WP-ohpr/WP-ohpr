@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Patrick
-- 👀 I’m interested in Making Games and pursuing other programming opportunities
-- 🌱 I’m currently obtaining my Bachelors in Computer Science
-
+- I have completed my B.S. in Computer Science
+- I'm interested in Computer Graphics, Natural Langruage Processing Models, and programming Video Games.
