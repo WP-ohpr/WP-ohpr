@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Patrick
 - I have completed my B.S. in Computer Science
-- I'm interested in Computer Graphics, Natural Langruage Processing Models, and programming Video Games.
+- I'm interested in Computer Graphics, Natural Language Processing Models, and programming Video Games.
